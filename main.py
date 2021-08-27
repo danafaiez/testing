@@ -1,4 +1,7 @@
 # if __name__ == '__main__':
+a = 1
+b = 2
+
 print("go move  your body!")
 print("go move  your body!")
 print("move")
