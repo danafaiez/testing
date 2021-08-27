@@ -2,6 +2,7 @@
 a = 1
 b = 2
 
+print("hallo!")
 print("go move  your body!")
 print("go move  your body!")
 print("move")
